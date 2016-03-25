@@ -15,7 +15,7 @@ Requires:       puppet-inifile
 Requires:       puppet-mysql
 Requires:       puppet-stdlib
 Requires:       puppet-rabbitmq
-Requires:       puppet-postgresql
+#Requires:       puppet-postgresql
 Requires:       puppet >= 2.7.0
 
 %description
