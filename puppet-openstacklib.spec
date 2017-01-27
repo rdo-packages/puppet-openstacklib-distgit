@@ -3,7 +3,7 @@ Name:           puppet-openstacklib
 Version:        XXX
 Release:        XXX
 Summary:        Puppet OpenStack Libraries
-License:        Apache-2.0
+License:        ASL 2.0
 
 URL:            https://launchpad.net/puppet-openstacklib
 
