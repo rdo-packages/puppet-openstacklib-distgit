@@ -1,6 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-openstacklib
-Version:        11.3.0
+Version:        11.4.0
 Release:        1%{?dist}
 Summary:        Puppet OpenStack Libraries
 License:        ASL 2.0
@@ -47,6 +47,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/openstacklib/
 
 
 %changelog
+* Fri Dec 01 2017 RDO <dev@lists.rdoproject.org> 11.4.0-1
+- Update to 11.4.0
+
 * Fri Aug 25 2017 Alfredo Moralejo <amoralej@redhat.com> 11.3.0-1
 - Update to 11.3.0
 
