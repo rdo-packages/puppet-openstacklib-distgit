@@ -66,3 +66,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/openstacklib/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-openstacklib/commit/e61fb1e4e25ba64bd3159c86ef51699995acf2f8
